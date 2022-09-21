@@ -1,3 +1,7 @@
+# This repository is deprecated
+
+This code is now located in our monorepo [here](https://github.com/reactioncommerce/reaction/tree/trunk/packages/api-plugin-inventory-simple)
+
 # api-plugin-inventory-simple
 
 [![npm (scoped)](https://img.shields.io/npm/v/@reactioncommerce/api-plugin-inventory-simple.svg)](https://www.npmjs.com/package/@reactioncommerce/api-plugin-inventory-simple)
